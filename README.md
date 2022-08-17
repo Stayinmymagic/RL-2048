@@ -1,4 +1,4 @@
-# RL_2048
+# game 2048
 First assignment in deep reinforcement learning course
 ## Goal
 1. 實作強化學習的Q-Learning
